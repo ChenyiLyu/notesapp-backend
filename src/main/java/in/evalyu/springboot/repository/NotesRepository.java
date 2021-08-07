@@ -9,3 +9,4 @@ import in.evalyu.springboot.entity.Note;
 public interface NotesRepository extends JpaRepository<Note, Long> {
 
 }
+
